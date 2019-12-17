@@ -14,8 +14,18 @@ simple dockerfile to create ubuntu os with vim git ping ansible ssh and docker (
 
 `$ docker exec -ti ub0 bash`
 
-### How to coonect with ssh?
+### How to connect with ssh?
 
 `ssh -l root ip_adress `
 
 *password:* ***toor*** 
+
+
+### Why I need this container? 
+
+I use it to pratice using 
+
+  * ansible with many instances of container ( ansible requires only python and ssh)
+  * ansible - docker
+  * docker - ansible
+  * docker in docker 
