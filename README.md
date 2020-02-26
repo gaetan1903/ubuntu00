@@ -4,7 +4,11 @@ simple dockerfile to create ubuntu os with vim git ping ansible ssh and docker (
 
 ### How to pull?
 
-`$ docker pull gaetan1903/ubuntu00:latest` or `docker pull docker.pkg.github.com/gaetan1903/ubuntu00/ubuntu00:latest`
+`$ docker pull gaetan1903/ubuntu00:latest`
+
+               or
+               
+`docker pull docker.pkg.github.com/gaetan1903/ubuntu00/ubuntu00:latest`
 
 ### How to run? 
 
